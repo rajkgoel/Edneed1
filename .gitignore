@@ -1,0 +1,4 @@
+
+edneed-api/dist/**
+edneed-api/node_modules/**
+edneed/node_modules/**
